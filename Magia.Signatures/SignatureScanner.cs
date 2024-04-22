@@ -21,7 +21,6 @@ public class SignatureScanner(ProcessModule module) {
             i++;
         }
 
-        Console.WriteLine(":(");
         return null;
     }
 
